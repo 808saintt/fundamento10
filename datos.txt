@@ -1,3 +1,0 @@
-Nombre: Maria
-Edad: 26
-Carrera: Ing 
