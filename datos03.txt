@@ -1,0 +1,15 @@
+|ESTUDIANTE 1:
+Nombre Ignacio Bravo:
+Edad 23:
+Carrera Analista Programador:
+Promedio 60:
+|ESTUDIANTE 2:
+Nombre: pepe
+Edad: 34
+Carrera: none
+Promedio: 0
+|ESTUDIANTE 3:
+Nombre: paco
+Edad: 69
+Carrera: defuncion
+Promedio: 420
